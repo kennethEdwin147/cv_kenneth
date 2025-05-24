@@ -1,0 +1,46 @@
+
+I. Coordonnées (Contact Information)
+
+Nom Complet: Kenneth E. Gbeti 
+Téléphone: 438-725-1915 
+Courriel: edwingbeti@gmail.com 
+LinkedIn: www.linkedin.com/in/kenneth-gbeti 
+GitHub: github.com/kenneth_edwin147 (ensure this link is correct and leads to your profile) 
+YouTube: youtube.com/@kennethgbet
+
+
+II. Résumé / À Propos de Moi (Summary / About Me)
+
+Développeur web back-end dynamique avec de l'expérience en création, intégration et gestion de bases de données et en développement de microservices web. Passionné par l'innovation technologique et doté d'une solide formation en génie électrique et en programmation web, je cherche à appliquer mes compétences pour créer des solutions logicielles robustes et efficaces.
+
+
+III. Compétences (Skills)
+
+Développement Logiciel: 
+Langages: Java, JavaScript, PHP (Composer & Packagist) 
+Bases de Données: SQL (MySQL, PostgreSQL)
+Outils de Versionnement: Git, GitHub 
+Méthodologies: Agile, Scrum (if you have experience)
+API: RESTful APIs
+Soutien Technique
+Service Clientèle
+Autres: Résolution de problèmes, travail d'équipe, communication, adaptabilité.
+
+
+III Éducation (Education)
+
+Baccalauréat en génie électrique | École de technologie supérieure | 2023 - Actuellement 
+Suggestion: List relevant coursework, particularly if it relates to software development, data structures, algorithms, or systems.
+AEC conception et programmation de sites web | Collège de Maisonneuve | 2021-2022 
+Suggestion: Mention key projects or areas of focus from this program.
+DEC sciences informatiques et mathématiques | Collège de Rosemont | 2018-2020 
+
+IV. Langues (Languages)
+
+Français: Langue native 
+Anglais: Avancé
+
+V. Projets Personnels (Personal Projects)
+
+TCH098 - PROJET 2024: ÉTS MTL vehicule anti-gravité
+lien du projet: https://youtu.be/lBiGX5yIEvk?si=RCrzbZCUATu3YWEL
