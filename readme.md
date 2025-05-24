@@ -1,6 +1,6 @@
 # 🚀 CV Web - Kenneth E. Gbeti
 
-- 🐙 **Lien web CV** : [cv-kenneth-gbeti](https://github.com/kenneth_edwin147)
+- 🐙 **Lien web CV** : [cv-kenneth-gbeti](https://kennethedwin147.github.io/cv_kenneth/)
 
 ![Cv web](./readme_img.png)
 
@@ -76,6 +76,37 @@ Le CV s'adapte parfaitement à tous les écrans :
 4. **Télécharger** la version PDF si nécessaire
 
 
+## 🔧 Compétences Techniques Détaillées
+
+### 💻 **Langages de Programmation**
+- **Java** - Applications robustes et scalables
+- **JavaScript** - Développement web côté serveur (Node.js)
+- **PHP** - Développement web back-end avec Composer
+- **C** - Programmation système et embarquée
+- **C#** - Applications .NET et développement Windows
+- **VHDL** - Description de circuits numériques et FPGA
+
+### 🔌 **Électronique & IoT**
+- **Microcontrôleurs** - Arduino, Raspberry Pi, ESP32/ESP8266
+- **Internet des Objets (IoT)** - Solutions connectées et intelligentes
+- **Systèmes Embarqués** - Développement de solutions électroniques
+- **Capteurs & Actionneurs** - Intégration de composants électroniques
+- **Protocoles IoT** - Communication sans fil (WiFi, Bluetooth)
+- **Conception PCB** - Design de circuits imprimés
+
+### 🗄️ **Bases de Données**
+- **MySQL** - Gestion de bases de données relationnelles
+- **PostgreSQL** - Système de gestion avancé
+- **SQL** - Optimisation et conception de requêtes
+
+### ⚙️ **Outils & Méthodologies**
+- **Git & GitHub** - Contrôle de version collaboratif
+- **APIs RESTful** - Conception et intégration
+- **Agile & Scrum** - Méthodologies de développement
+- **Microservices** - Architecture distribuée
+
+---
+
 *Merci de votre visite ! 🙏*
 
-> *"L'innovation distingue un leader d'un suiveur."* - Steve Jobs# cv_kenneth
+> *"L'innovation distingue un leader d'un suiveur."* - Steve Jobs
