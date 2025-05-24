@@ -63,7 +63,6 @@ Le CV s'adapte parfaitement à tous les écrans :
 ## 🔗 Liens utiles
 
 - 📧 **Email** : [edwingbeti@gmail.com](mailto:edwingbeti@gmail.com)
-- 📞 **Téléphone** : [438-725-1915](tel:438-725-1915)
 - 💼 **LinkedIn** : [kenneth-gbeti](https://www.linkedin.com/in/kenneth-gbeti)
 - 🐙 **GitHub** : [kenneth_edwin147](https://github.com/kenneth_edwin147)
 - 🎥 **YouTube** : [@kennethgbet](https://youtube.com/@kennethgbet)
