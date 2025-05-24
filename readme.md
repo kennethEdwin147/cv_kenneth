@@ -54,29 +54,6 @@ Ce CV web a été conçu pour offrir une expérience utilisateur exceptionnelle 
 - Vidéo YouTube intégrée
 - Description détaillée du projet
 
-### 📞 **Contact**
-- Informations complètes de contact
-- Liens vers réseaux sociaux
-- Formulaire de contact rapide
-
-## 🎨 Design & UX
-
-### Palette de couleurs
-- **Primaire** : Bleu moderne et professionnel
-- **Secondaire** : Gris élégant pour le texte
-- **Accent** : Blanc pour les contrastes
-
-### Typographie
-- Police moderne et lisible
-- Hiérarchie claire des titres
-- Espacement optimisé pour la lecture
-
-### Animations
-- Effets de fade-in au scroll (AOS)
-- Transitions fluides entre sections
-- Accordéons avec animations d'ouverture
-
-## 📱 Responsive Design
 
 Le CV s'adapte parfaitement à tous les écrans :
 - 📱 **Mobile** (320px+) - Navigation optimisée
@@ -98,55 +75,6 @@ Le CV s'adapte parfaitement à tous les écrans :
 3. **Explorer** les différentes sections
 4. **Télécharger** la version PDF si nécessaire
 
-## 📁 Structure du projet
-
-```
-cv_web/
-├── cv-kenneth-gbeti.html    # CV web principal
-├── mon-cv.pdf              # Version PDF téléchargeable
-├── assets/                 # Ressources (CSS, JS, images)
-├── startup.html            # Template original
-├── accordion.html          # Exemple d'accordéons
-└── README.md              # Ce fichier
-```
-
-## 🎯 Objectifs du projet
-
-Ce CV web démontre mes compétences en :
-- **Développement front-end** - HTML, CSS, JavaScript
-- **Design UX/UI** - Interface utilisateur moderne
-- **Responsive design** - Adaptation multi-appareils
-- **Intégration multimédia** - Vidéos et contenus riches
-
-## 💡 Pourquoi ce CV ?
-
-Dans un monde numérique, un CV web offre :
-- **Différenciation** - Se démarquer des CV traditionnels
-- **Interactivité** - Engagement accru des recruteurs
-- **Accessibilité** - Disponible 24/7 en ligne
-- **Démonstration** - Preuve concrète de mes compétences
-
-## 🔄 Mises à jour
-
-Ce CV est régulièrement mis à jour avec :
-- Nouveaux projets et réalisations
-- Compétences techniques acquises
-- Améliorations du design et de l'UX
-- Optimisations de performance
-
----
-
-## 📞 Me contacter
-
-Intéressé par mon profil ? N'hésitez pas à me contacter !
-
-**Kenneth E. Gbeti**
-Développeur Web Back-end
-📍 Montréal, Québec, Canada
-📧 edwingbeti@gmail.com
-📱 438-725-1915
-
----
 
 *Merci de votre visite ! 🙏*
 
