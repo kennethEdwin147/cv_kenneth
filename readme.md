@@ -1,10 +1,10 @@
 # 🚀 CV Web - Kenneth E. Gbeti
 
-- 🐙 **Lien de mon web CV** : [cv-kenneth-gbeti](https://kennethedwin147.github.io/cv_kenneth/)
+- 🐙 **Lien web CV** : [cv-kenneth-gbeti](https://github.com/kenneth_edwin147)
 
 ![Cv web](./readme_img.png)
 
-> **Développeur et ingénieur | Passionné par l'innovation technologique**
+> **Développeur Web Back-end | Passionné par l'innovation technologique**
 
 Bienvenue sur mon CV web interactif ! Ce projet présente mon parcours professionnel, mes compétences techniques et mes projets de manière moderne et engageante.
 
@@ -54,25 +54,9 @@ Ce CV web a été conçu pour offrir une expérience utilisateur exceptionnelle 
 - Vidéo YouTube intégrée
 - Description détaillée du projet
 
-
-Le CV s'adapte parfaitement à tous les écrans :
-- 📱 **Mobile** (320px+) - Navigation optimisée
-- 📱 **Tablette** (768px+) - Mise en page adaptée
-- 💻 **Desktop** (1200px+) - Expérience complète
-
-## 🔗 Liens utiles
-
-- 📧 **Email** : [edwingbeti@gmail.com](mailto:edwingbeti@gmail.com)
-- 💼 **LinkedIn** : [kenneth-gbeti](https://www.linkedin.com/in/kenneth-gbeti)
-- 🐙 **GitHub** : [kenneth_edwin147](https://github.com/kenneth_edwin147)
-- 🎥 **YouTube** : [@kennethgbet](https://youtube.com/@kennethgbet)
-
-## 🚀 Comment utiliser
-
-1. **Cloner ou télécharger** le projet
-2. **Ouvrir** `cv-kenneth-gbeti.html` dans votre navigateur
-3. **Explorer** les différentes sections
-4. **Télécharger** la version PDF si nécessaire
+### � **Contact**
+- Informations complètes de contact
+- Liens vers réseaux sociaux
 
 ## 🔧 Compétences Techniques Détaillées
 
@@ -92,19 +76,29 @@ Le CV s'adapte parfaitement à tous les écrans :
 - **Protocoles IoT** - Communication sans fil (WiFi, Bluetooth)
 - **Conception PCB** - Design de circuits imprimés
 
-### 🗄️ **Bases de Données**
-- **MySQL** - Gestion de bases de données relationnelles
-- **PostgreSQL** - Système de gestion avancé
-- **SQL** - Optimisation et conception de requêtes
+## � Responsive Design
 
-### ⚙️ **Outils & Méthodologies**
-- **Git & GitHub** - Contrôle de version collaboratif
-- **APIs RESTful** - Conception et intégration
-- **Agile & Scrum** - Méthodologies de développement
-- **Microservices** - Architecture distribuée
+Le CV s'adapte parfaitement à tous les écrans :
+- 📱 **Mobile** (320px+) - Navigation optimisée
+- 📱 **Tablette** (768px+) - Mise en page adaptée
+- 💻 **Desktop** (1200px+) - Expérience complète
 
----
+## 🔗 Liens utiles
+
+- 📧 **Email** : [edwingbeti@gmail.com](mailto:edwingbeti@gmail.com)
+- 📞 **Téléphone** : [438-725-1915](tel:438-725-1915)
+- 💼 **LinkedIn** : [kenneth-gbeti](https://www.linkedin.com/in/kenneth-gbeti)
+- 🐙 **GitHub** : [kenneth_edwin147](https://github.com/kenneth_edwin147)
+- 🎥 **YouTube** : [@kennethgbet](https://youtube.com/@kennethgbet)
+
+## 🚀 Comment utiliser
+
+1. **Cloner ou télécharger** le projet
+2. **Ouvrir** `cv-kenneth-gbeti.html` dans votre navigateur
+3. **Explorer** les différentes sections
+4. **Télécharger** la version PDF si nécessaire
+
 
 *Merci de votre visite ! 🙏*
 
-> *"L'innovation distingue un leader d'un suiveur."* - Steve Jobs
+> *"L'innovation distingue un leader d'un suiveur."* - Steve Jobs# cv_kenneth
