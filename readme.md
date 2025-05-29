@@ -1,6 +1,6 @@
 # 🚀 CV Web - Kenneth E. Gbeti
 
-- 🐙 **Lien web CV** : [cv-kenneth-gbeti](https://kennethedwin147.github.io/cv_kenneth/)
+- 🐙 **Lien de mon web CV** : [cv-kenneth-gbeti](https://kennethedwin147.github.io/cv_kenneth/)
 
 ![Cv web](./readme_img.png)
 
