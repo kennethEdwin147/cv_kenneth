@@ -2,7 +2,7 @@
 
 - 🐙 **Lien web CV** : [cv-kenneth-gbeti](https://github.com/kenneth_edwin147)
 
-![Cv web](./readme_img.png)
+![Cv web](./readme_img_update.png)
 
 > **Développeur Web Back-end | Passionné par l'innovation technologique**
 
